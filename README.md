@@ -5,4 +5,4 @@ Hier liegen mein Bash-Skript und meine Jupyter Notebooks
 - 2023-11-20 - 2023-11-22
   
 ## Emojis from  collaborators
-- Marlene 🐹 2023-11-22
+- Marlene 🐹 2023-11-22 :pig:
